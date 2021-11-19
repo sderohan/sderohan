@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Go, AWS, DS & Algo, Kubernetes.
 - 👯 I’m looking to collaborate on Go And cloud projects.
 - 🤔 I’m looking for help with Go concurrency and system design.
-<!-- - 💬 Ask me about Anything 
-- 📫 How to reach me: .
+- 💬 Ask me about Anything 
+<!-- - 📫 How to reach me: .
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
