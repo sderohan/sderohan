@@ -6,7 +6,8 @@
 - 🤔 I’m looking for help with Go concurrency and system design.
 - 💬 Ask me about Anything 
 - ⚡ Fun fact: Nothing :(
-<!-- - 📫 How to reach me: .
-😄 Pronouns: 
+- 📫 How to reach me: https://www.linkedin.com/in/sderohan/
+<!--
+-😄 Pronouns: 
 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sderohan&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
