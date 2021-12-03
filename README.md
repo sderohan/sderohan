@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on Go And cloud projects.
 - 🤔 I’m looking for help with Go concurrency and system design.
 - 💬 Ask me about Anything 
-- 📫 How to reach me: https://www.linkedin.com/in/sderohan/
+- 📫 How to reach me: <br />
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sderohan/)
 - ⚡ Fun fact: Nothing :(
 <!--
 -😄 Pronouns: 
