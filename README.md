@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Go project.
+- 🔭 I’m currently working on Go backend project.
 - 🌱 I’m currently learning Go, AWS, DS & Algo, Kubernetes.
 - 👯 I’m looking to collaborate on Go And cloud projects.
 - 🤔 I’m looking for help with Go concurrency and system design.
